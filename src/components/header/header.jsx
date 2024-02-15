@@ -1,4 +1,5 @@
 import logo from "../../assets/snap.svg";
+
 const Header = () => {
   return (
     <div>
@@ -12,7 +13,9 @@ const Header = () => {
         </div>
         <div>
           <div>Company</div>
-          <div></div>
+          <div>
+            <img src="" alt="" />
+          </div>
         </div>
         <div>Careers</div>
         <div>About</div>
